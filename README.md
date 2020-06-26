@@ -1,4 +1,4 @@
-# Predicting World GDP Based On Countries Social,Economic And Cultural Data
+# Predict World GDP
 We  aim  to  predict  the  world  gross  domesticproducts  (GDP)  based  on  GDPs  of  various  countries.  The  GDP of countries is impacted by various social, economical, culturalparameters.   We   are   analysing   those   parameters   from   1960 to  2017  and  will  predict  future  GDP  of  the  world.  We  areusing  supervised  learning  methods  to  build  our  models. We have used evaluated following models.
   1)  Multiple Linear Regression 
   2)  Polynomial Regression
